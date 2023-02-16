@@ -5,5 +5,5 @@ Nesse reposiótio vocês vão ter acesso a exercícios que solucionei ao longo d
 
 Se precisarem tirar alguma dúvida pode entrar em contato comigo por e-mail:thamirysgomes73@gmail.com
 
-##Bons estudos.
+ - Bons estudos.
 # 👩‍💻👨‍💻
